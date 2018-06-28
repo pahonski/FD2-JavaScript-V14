@@ -4,5 +4,8 @@
   "description": "тестовый проект",
   "scripts": {
     "start": "lite-server"
+  },
+  "devDependencies": {
+    "lite-server": "^2.3.0"
   }
 }

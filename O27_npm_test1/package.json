@@ -1,0 +1,17 @@
+{
+  "name": "o27_npm_test1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.4.1"
+  },
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
